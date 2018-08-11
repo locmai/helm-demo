@@ -1,0 +1,10 @@
+apiVersion: v1                      # The chart API version, always "v1" (Required)
+name: "nginx"                       # The name of the chart (Required)
+description: "Simple Nginx chart"   # A single-sentence description of this project
+version: 0.1.0                      # A SemVer 2 version (Required)
+keywords:
+- simple
+- nginx
+maintainers:
+- name: locmai
+  email: locmai@kms-technology.com
